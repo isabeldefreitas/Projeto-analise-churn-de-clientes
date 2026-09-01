@@ -174,16 +174,7 @@ A análise mostrou que o churn não está distribuído de forma uniforme entre o
 * Tratamento de Dados
 * Visualização de Dados
 
----
 
-
-# 🚀 Como visualizar o projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/Projeto-analise-churn-de-clientes.git
-```
 
 2. Abra o arquivo `.pbix` utilizando o **Power BI Desktop**.
 

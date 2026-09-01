@@ -176,9 +176,3 @@ A análise mostrou que o churn não está distribuído de forma uniforme entre o
 
 
 
-2. Abra o arquivo `.pbix` utilizando o **Power BI Desktop**.
-
-3. Explore as páginas **Dados Gerais** e **Detalhes** e utilize os filtros disponíveis para analisar diferentes segmentos da base.
-
-
-
